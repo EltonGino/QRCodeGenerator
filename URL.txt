@@ -1,0 +1,3 @@
+https://www.npmjs.com/package/inquirerhttps://www.npmjs.com/package/qr-image
+www.x.com
+https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/find-the-symmetric-difference

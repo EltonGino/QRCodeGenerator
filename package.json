@@ -1,0 +1,16 @@
+{
+  "name": "qrcodeproject",
+  "version": "1.0.0",
+  "description": "Qr Code Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elton Gino",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "qr-image": "^3.2.0"
+  }
+}
